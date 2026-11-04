@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TaxiManagementSystem" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.TaxiManagementSystem.NoActionBar" parent="Theme.TaxiManagementSystem">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+
+</resources>

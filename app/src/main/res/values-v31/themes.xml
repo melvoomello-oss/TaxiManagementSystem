@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TaxiManagementSystem.NoActionBar" parent="Theme.TaxiManagementSystem">
+        <item name="android:windowSplashScreenBackground">#166534</item>
+    </style>
+
+</resources>
